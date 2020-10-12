@@ -3,6 +3,7 @@ IP Geolocalizacion en termux/kali
 
 Installion
 ====
+* apt update
 * apt install w3m
 * apt install git
 * apt install wget
