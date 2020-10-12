@@ -145,9 +145,9 @@ iptarget() {
 about() {
 	sleep 0.15
 	echo '''
-	Author by 	: Lamorte
-	version		: 0.1
-	made on a date	: 11 - Oct - 2020
+	Autor   	: Lamorte
+	Version		: 0.1
+	Fecha de la v.	: 11 - Oct - 2020
 	Github		: https://github.com/Lamorte-DS
 
 			+ GRACIAS +
