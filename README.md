@@ -1,4 +1,4 @@
-# InfoGIp V 0.0.1
+# InfoGIp v 0.0.1
 IP Geolocalizacion en termux/kali linux
 
 Instalacion
