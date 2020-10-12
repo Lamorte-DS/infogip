@@ -1,7 +1,7 @@
 # InfoGIp
 IP Geolocalizacion en termux/kali
 
-Installion
+Instalacion
 ====
 * apt update
 * apt install w3m
