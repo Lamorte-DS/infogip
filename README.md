@@ -1,6 +1,11 @@
 # InfoGIp v 0.0.1
 IP Geolocalizacion en termux/kali linux
 
+Tutorial
+====
+
+https://www.youtube.com/watch?v=nkhGicIEack
+
 Instalacion
 ====
 * "Si no te deja poner los comandos, usa el comando "sudo" antes del comando y despues te pedira la contraseña del usuario en lo cual estas instalando."
