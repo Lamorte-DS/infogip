@@ -1,6 +1,6 @@
 # InfoGIp
-version 0.1
-IP Geolocalizacion en termux/kali linux
+* *version 0.1*
+* IP Geolocalizacion en termux/kali linux
 
 Tutorial
 ====
