@@ -1,5 +1,5 @@
 # InfoGIp
-IP Geolocalizacion en termux/kali
+IP Geolocalizacion en termux/kali linux
 
 Instalacion
 ====
