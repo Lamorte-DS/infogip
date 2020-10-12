@@ -3,7 +3,7 @@ IP Geolocalizacion en termux/kali
 
 Instalacion
 ====
-* "Si no te deja poner los comandos usa el sudo antes del comando y despues te pedira la contraseña del usuario en lo cual estas instalando."
+* "Si no te deja poner los comandos, usa el "sudo" antes del comando y despues te pedira la contraseña del usuario en lo cual estas instalando."
 * apt update
 * apt upgrade
 * apt install w3m
